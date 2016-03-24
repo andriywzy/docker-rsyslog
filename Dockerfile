@@ -1,5 +1,6 @@
 # DOCKER-VERSION 1.10.3
-# VERSION        1
+# VERSION        2
+# test
 
 FROM ubuntu:14.04
 MAINTAINER Zhenyuan Wang <andriywzy@gmail.com>
